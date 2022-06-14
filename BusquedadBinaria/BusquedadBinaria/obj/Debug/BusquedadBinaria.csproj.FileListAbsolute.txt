@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\bin\Debug\BusquedadBinaria.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\bin\Debug\BusquedadBinaria.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\bin\Debug\BusquedadBinaria.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\BusquedadBinaria\BusquedadBinaria\obj\Debug\BusquedadBinaria.pdb

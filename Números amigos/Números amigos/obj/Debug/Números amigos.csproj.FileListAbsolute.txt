@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\bin\Debug\Números amigos.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\bin\Debug\Números amigos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\bin\Debug\Números amigos.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números amigos.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números_amigos.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números_amigos.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números amigos.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números amigos.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números amigos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Números amigos\Números amigos\obj\Debug\Números amigos.pdb

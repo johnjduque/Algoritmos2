@@ -1,0 +1,20 @@
+namespace MostrarARchivo
+{
+    
+        class Program
+        {
+
+            static void Main(string[] args)
+            {
+                string fileName = "Program.txt";
+                FileStream stream = new FileStream(fileName, FileMode.Open,
+                FileAccess.Read);
+                StreamReader reader = new StreamReader(stream);
+                while (reader.Peek() > -1) Console.WriteLine(reader.ReadLine());
+                reader.Close();
+                Console.ReadLine();
+            }
+
+
+        }
+    }

@@ -1,0 +1,14 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\bin\Debug\Serie Fibonnaci.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p3\Serie Fibonnaci\obj\Debug\Serie Fibonnaci.pdb

@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\bin\Debug\SerieDeTylor.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\bin\Debug\SerieDeTylor.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\bin\Debug\SerieDeTylor.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieDeTylor\SerieDeTylor\obj\Debug\SerieDeTylor.pdb

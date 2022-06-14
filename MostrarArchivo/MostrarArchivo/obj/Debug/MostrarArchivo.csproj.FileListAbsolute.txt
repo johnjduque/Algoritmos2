@@ -1,0 +1,7 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\obj\Debug\MostrarArchivo.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\obj\Debug\MostrarArchivo.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\bin\Debug\MostrarArchivo.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\bin\Debug\MostrarArchivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\bin\Debug\MostrarArchivo.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\obj\Debug\MostrarArchivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MostrarArchivo\MostrarArchivo\obj\Debug\MostrarArchivo.pdb

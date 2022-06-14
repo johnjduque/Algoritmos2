@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\bin\Debug\ejemplo1 palindrome.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\bin\Debug\ejemplo1 palindrome.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\bin\Debug\ejemplo1 palindrome.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1 palindrome.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1_palindrome.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1_palindrome.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1 palindrome.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1 palindrome.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1 palindrome.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\ejemplo1 palindrome\ejemplo1 palindrome\obj\Debug\ejemplo1 palindrome.pdb

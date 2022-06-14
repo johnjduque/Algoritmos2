@@ -1,0 +1,6 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triangulo de Pascal Consola\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.pdb

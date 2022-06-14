@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\bin\Debug\SenoRecursivo.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\bin\Debug\SenoRecursivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\bin\Debug\SenoRecursivo.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Serie Seno Recursivo\SenoRecursivo\SenoRecursivo\obj\Debug\SenoRecursivo.pdb

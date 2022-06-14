@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTGV", "DTGV\DTGV.csproj", "{8085A368-F617-413D-9C3B-E7E4887F7E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8085A368-F617-413D-9C3B-E7E4887F7E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8085A368-F617-413D-9C3B-E7E4887F7E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8085A368-F617-413D-9C3B-E7E4887F7E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8085A368-F617-413D-9C3B-E7E4887F7E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF524963-898B-4277-BD7C-F78533898E7A}
+	EndGlobalSection
+EndGlobal

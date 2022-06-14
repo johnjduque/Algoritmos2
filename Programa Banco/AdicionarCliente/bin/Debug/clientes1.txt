@@ -1,0 +1,4 @@
+1&john&duque&calle10&3456&j@uco&0
+12345&JJ&DZ&CLL50&6789&JJDZ@uco&-50000
+1029&yulisa&murillo&galicia&12347890&yuli@es&500000
+5678&mateo&cardona&san antonio&34567&mate@o&300000

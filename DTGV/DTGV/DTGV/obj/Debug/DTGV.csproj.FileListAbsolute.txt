@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\bin\Debug\DTGV.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\bin\Debug\DTGV.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\bin\Debug\DTGV.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DTGV\DTGV\DTGV\obj\Debug\DTGV.pdb

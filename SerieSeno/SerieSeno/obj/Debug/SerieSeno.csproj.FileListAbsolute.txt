@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\bin\Debug\SerieSeno.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\bin\Debug\SerieSeno.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\bin\Debug\SerieSeno.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\SerieSeno\SerieSeno\obj\Debug\SerieSeno.pdb

@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\bin\Debug\MatricesDataGridView.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\bin\Debug\MatricesDataGridView.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\bin\Debug\MatricesDataGridView.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\DataGrid Matriz\MatricesDataGridView\MatricesDataGridView\obj\Debug\MatricesDataGridView.pdb

@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo_de_Archivos.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo_de_Archivos.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\bin\Debug\Manejo de Archivos.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\bin\Debug\Manejo de Archivos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\bin\Debug\Manejo de Archivos.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Manejo de Archivos\Manejo de Archivos\obj\Debug\Manejo de Archivos.pdb

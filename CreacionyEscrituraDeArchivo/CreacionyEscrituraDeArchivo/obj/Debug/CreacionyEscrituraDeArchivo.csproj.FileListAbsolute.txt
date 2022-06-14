@@ -1,0 +1,7 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\bin\Debug\CreacionyEscrituraDeArchivo.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\bin\Debug\CreacionyEscrituraDeArchivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\bin\Debug\CreacionyEscrituraDeArchivo.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\obj\Debug\CreacionyEscrituraDeArchivo.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\obj\Debug\CreacionyEscrituraDeArchivo.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\obj\Debug\CreacionyEscrituraDeArchivo.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\CreacionyEscrituraDeArchivo\CreacionyEscrituraDeArchivo\obj\Debug\CreacionyEscrituraDeArchivo.pdb

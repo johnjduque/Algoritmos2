@@ -1,0 +1,3 @@
+﻿1>------ Operación Compilar iniciada: proyecto: Punto 7, configuración: Debug Any CPU ------
+1>  Punto 7 -> C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\bin\Debug\Punto 7.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\bin\Debug\TrianguloDePascal.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Triánglo de Pascal\TrianguloDePascal\TrianguloDePascal\obj\Debug\TrianguloDePascal.pdb

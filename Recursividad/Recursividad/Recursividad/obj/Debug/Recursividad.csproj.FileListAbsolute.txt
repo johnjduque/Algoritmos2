@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Recursividad\Recursividad\Recursividad\obj\Debug\Recursividad.pdb

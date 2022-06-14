@@ -1,0 +1,12 @@
+1036&John&Rionegro&320&jj@gmail.com
+1037&Andrea&Marinilla&323&an@gmail.com
+1039&Kelly&Medellín&325&kl@gmail.com
+1038&Andres&Santuario&324&an@hotmail.com
+1040&Érica&Rionegro&324&er@hotmail.com
+1030&Mary&Carmen de Viboral&335&ma@gmail.com
+1031&Valentina&La Ceja&315&va@gmail.com
+1032&Juliana&Envigado&345&ju@gmail.com
+1033&Saul&Medellín&317&sa@gmail.com
+1034&Carlos&El Peñol&326&ca@hotmail.com
+1035&Eduardo&Rionegro&323&ed@gmail.com
+1045&Saul&Medellín&318&sa@gamil.com

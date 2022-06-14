@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\bin\Debug\AdicionarCliente.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\bin\Debug\AdicionarCliente.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\bin\Debug\AdicionarCliente.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Adiccionar Cliente Parcial\AdicionarCliente\AdicionarCliente\obj\Debug\AdicionarCliente.pdb

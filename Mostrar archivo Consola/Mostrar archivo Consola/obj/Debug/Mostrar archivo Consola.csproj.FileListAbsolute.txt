@@ -1,0 +1,7 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\bin\Debug\Mostrar archivo Consola.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\bin\Debug\Mostrar archivo Consola.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\bin\Debug\Mostrar archivo Consola.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\obj\Debug\Mostrar archivo Consola.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\obj\Debug\Mostrar archivo Consola.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\obj\Debug\Mostrar archivo Consola.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Mostrar archivo Consola\Mostrar archivo Consola\obj\Debug\Mostrar archivo Consola.pdb

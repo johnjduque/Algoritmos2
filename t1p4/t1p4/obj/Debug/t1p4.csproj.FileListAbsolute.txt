@@ -1,0 +1,7 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\bin\Debug\t1p4.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\bin\Debug\t1p4.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\bin\Debug\t1p4.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\obj\Debug\t1p4.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\obj\Debug\t1p4.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\obj\Debug\t1p4.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p4\t1p4\obj\Debug\t1p4.pdb

@@ -1,0 +1,11 @@
+1&Aguardiente&90000&15
+2&Arroz&5000&50
+3&Frijol&3400&100
+4&Salchicha&6000&40
+6&Carne de res&11450&56
+7&Carne de cerdo&7900&38
+8&Gaseosa&3400&150
+9&Yogurt&6700&40
+10&Cafe&13450&30
+5&Pan&2500&26
+

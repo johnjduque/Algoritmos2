@@ -1,0 +1,14 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\bin\Debug\t1p9.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\bin\Debug\t1p9.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\bin\Debug\t1p9.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\obj\Debug\t1p9.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\obj\Debug\t1p9.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\obj\Debug\t1p9.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p9\t1p9\obj\Debug\t1p9.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\bin\Debug\t1p9.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\bin\Debug\t1p9.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\bin\Debug\t1p9.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\obj\Debug\t1p9.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\obj\Debug\t1p9.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\obj\Debug\t1p9.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p10\t1p10\obj\Debug\t1p9.pdb

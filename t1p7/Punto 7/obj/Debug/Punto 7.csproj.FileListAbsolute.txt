@@ -1,0 +1,7 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\bin\Debug\Punto 7.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\bin\Debug\Punto 7.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\bin\Debug\Punto 7.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\obj\Debug\Punto 7.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\obj\Debug\Punto 7.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\obj\Debug\Punto 7.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p7\Punto 7\obj\Debug\Punto 7.pdb

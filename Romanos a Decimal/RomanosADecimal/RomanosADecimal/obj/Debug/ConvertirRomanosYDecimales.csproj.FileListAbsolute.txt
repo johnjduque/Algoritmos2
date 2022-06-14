@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\bin\Debug\RomanosADecimal.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\bin\Debug\RomanosADecimal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\bin\Debug\RomanosADecimal.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\ConvertirRomanosYDecimales.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\RomanosADecimal.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\RomanosADecimal.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\ConvertirRomanosYDecimales.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\ConvertirRomanosYDecimales.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\RomanosADecimal.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Romanos a Decimal\RomanosADecimal\RomanosADecimal\obj\Debug\RomanosADecimal.pdb

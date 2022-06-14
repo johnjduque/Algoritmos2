@@ -1,0 +1,11 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\bin\Debug\FormularioMdi.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\bin\Debug\FormularioMdi.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\bin\Debug\FormularioMdi.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\MDI\FormularioMdi\FormularioMdi\obj\Debug\FormularioMdi.Form2.resources

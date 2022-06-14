@@ -1,0 +1,20 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\bin\Debug\ActualizarPedidos.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\Actualizar Pedidos con codigo\ActualizarPedidos\ActualizarPedidos\obj\Debug\ActualizarPedidos.pdb

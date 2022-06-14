@@ -1,0 +1,10 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\bin\Debug\t1p1 WF.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\bin\Debug\t1p1 WF.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\bin\Debug\t1p1 WF.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1 WF.csprojAssemblyReference.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1_WF.Form1.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1_WF.Properties.Resources.resources
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1 WF.csproj.GenerateResource.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1 WF.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1 WF.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\t1p1 WF\t1p1 WF\obj\Debug\t1p1 WF.pdb

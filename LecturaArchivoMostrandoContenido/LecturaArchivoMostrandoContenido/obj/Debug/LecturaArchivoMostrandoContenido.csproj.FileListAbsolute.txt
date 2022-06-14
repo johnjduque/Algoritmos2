@@ -1,0 +1,6 @@
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\bin\Debug\LecturaArchivoMostrandoContenido.exe.config
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\bin\Debug\LecturaArchivoMostrandoContenido.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\bin\Debug\LecturaArchivoMostrandoContenido.pdb
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\obj\Debug\LecturaArchivoMostrandoContenido.csproj.CoreCompileInputs.cache
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\obj\Debug\LecturaArchivoMostrandoContenido.exe
+C:\Users\John Jairo\Documents\UCO - ING. SIST\ALGORITMOS 2\LecturaArchivoMostrandoContenido\LecturaArchivoMostrandoContenido\obj\Debug\LecturaArchivoMostrandoContenido.pdb
